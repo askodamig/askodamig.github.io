@@ -1,0 +1,49 @@
+div.body{ 
+background-color: #edcdcd;
+}
+
+.backround{
+  width: 100%;
+  height: 100%;
+  background-color: #7F675B;
+}
+
+.container {
+  display: flex;
+    border-radius: 15px;
+  gap: 10px;
+}
+
+div.sida-vanster{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 15px;
+    background-color: #edcdcd;
+      flex-direction: column;
+}
+
+div.sida-hoger{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 15px;
+    background-color: #edcdcd;
+      flex-direction: column;
+}
+
+.textlada{
+  display: flex;
+  flex-direction: row;
+  max-width: fit-content;
+  max-height: fit-content;
+  border-radius: 15px;
+  background-color: #edcdcd;
+  padding: 10px;
+
+}
+.title{
+  
+}
