@@ -1,0 +1,35 @@
+header{
+background-color: darkolivegreen;
+color: white;
+text-align: center;
+padding: 1em;
+border-radius: 15px;
+}
+
+main{
+padding: 20px;
+background-color: #edcdcd;
+text-align: center;
+border-radius: 15px;
+flex-direction: column;
+display: flex;
+flex-wrap: wrap;
+}
+
+footer{
+background-color: darkolivegreen;
+color: floralwhite;
+text-align: center;
+padding: 1em;
+border-radius: 15px;
+}
+
+middle{
+  background-color: darkolivegreen;
+}
+
+year{
+    width: 100%;
+    padding: 2em;
+    
+}
